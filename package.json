@@ -1,6 +1,6 @@
 {
   "name": "babby",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A thin wrapper around Babel v6 to enable advanced plugins.",
   "author": "Luke Horvat",
   "license": "MIT",

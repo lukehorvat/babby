@@ -1,4 +1,4 @@
-# babby [![NPM version](http://img.shields.io/npm/v/babby.svg?style=flat-square)](https://www.npmjs.org/package/babby)
+# babby [![NPM version](http://img.shields.io/npm/v/babby.svg?style=flat-square)](https://www.npmjs.org/package/babby) ![Status](https://img.shields.io/badge/status-experimental-orange.svg?style=flat-square)
 
 A thin wrapper around Babel v6 to enable __advanced__ plugins.
 
